@@ -25,4 +25,5 @@ Its a binary classification problem. The two classes are Normal and Pneumonia.
 
 
 ### Output
-![md](https://user-images.githubusercontent.com/31787195/55794371-b5c1da80-5ae2-11e9-9b51-e7175d063273.png)
+![md](https://user-images.githubusercontent.com/31787195/55794741-a4c59900-5ae3-11e9-9337-da1162128080.png)
+
