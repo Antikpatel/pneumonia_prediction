@@ -18,7 +18,7 @@ Its a binary classification problem. The two classes are Normal and Pneumonia.
 
 
 ### Confusion Matrix
-![confusion matrix](https://user-images.githubusercontent.com/31787195/55892921-e08c5b80-5bd4-11e9-87a3-b8bace986c83.png)
+![confusion matrix](https://user-images.githubusercontent.com/31787195/55893009-09145580-5bd5-11e9-8e89-c8ea9e7091d1.png)
 
 
 ### Model Accuracy
