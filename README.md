@@ -14,10 +14,11 @@ Its a binary classification problem. The two classes are Normal and Pneumonia.
 
 
 ### Model Architecture
-![architecture](https://user-images.githubusercontent.com/31787195/55794150-24eaff00-5ae2-11e9-9166-166c8da71232.png)
+![architecture](https://user-images.githubusercontent.com/31787195/55892882-c81c4100-5bd4-11e9-89d3-51a9e5450fb5.png)
+
 
 ### Confusion Matrix
-![confusion matrix](https://user-images.githubusercontent.com/31787195/55794195-451abe00-5ae2-11e9-92ad-aee4fb1496a1.png)
+![confusion matrix](https://user-images.githubusercontent.com/31787195/55892921-e08c5b80-5bd4-11e9-87a3-b8bace986c83.png)
 
 
 ### Model Accuracy
